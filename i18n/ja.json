@@ -2740,8 +2740,8 @@
         "elementNames": {
             "fire": "国語",
             "water": "数学",
-            "wood": "木属性",
-            "stone": "土属性",
+            "wood": "でんちゃ",
+            "stone": "野球",
             "light": "R18",
             "darkness": "バイオレンス"
         },
@@ -2755,8 +2755,8 @@
             "darkness": "{{darkness}}の攻撃は、どの属性でも防御できる。<br>ただし、ダメージを受けるとHP0になる。"
         },
         "curseNames": {
-            "cold": "風邪",
-            "fever": "抜錨",
+            "cold": "抜錨",
+            "fever": "熱病",
             "hell": "地獄病",
             "heaven": "天国病",
             "fog": "霧",
@@ -2777,8 +2777,8 @@
         "guardianNames": {
             "mars": "sine",
             "mercury": "処刑台",
-            "jupiter": "木星神",
-            "saturn": "土星神",
+            "jupiter": "よりぴー",
+            "saturn": "にーらい",
             "uranus": "賢者",
             "pluto": "機械的鉛筆",
             "neptune": "クロちゃん",
@@ -2789,8 +2789,8 @@
         "guardianDescriptions": {
             "mars": "国語を司る同好会員",
             "mercury": "数学を司る同好会員",
-            "jupiter": "木を司る同好会員",
-            "saturn": "土を司る同好会員",
+            "jupiter": "でんちゃを司る同好会員",
+            "saturn": "野球を司る同好会員",
             "uranus": "R18を司る同好会員",
             "pluto": "バイオレンスを司る同好会員",
             "neptune": "いやしを司る同好会員",
