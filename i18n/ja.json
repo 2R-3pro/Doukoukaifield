@@ -2777,26 +2777,26 @@
         "guardianNames": {
             "mars": "sine",
             "mercury": "処刑台",
-            "jupiter": "よりぴー",
-            "saturn": "にーらい",
-            "uranus": "賢者",
-            "pluto": "機械的鉛筆",
-            "neptune": "クロちゃん",
-            "venus": "前歯",
-            "earth": "地球神",
-            "moon": "林篤信"
+            "jupiter": "MSD",
+            "saturn": "よりぴー",
+            "uranus": "前歯",
+            "pluto": "クロちゃん",
+            "neptune": "賢者",
+            "venus": "林警部補",
+            "earth": "めーもん",
+            "moon": ""
         },
         "guardianDescriptions": {
             "mars": "国語を司る同好会員",
             "mercury": "数学を司る同好会員",
-            "jupiter": "でんちゃを司る同好会員",
-            "saturn": "野球を司る同好会員",
-            "uranus": "R18を司る同好会員",
-            "pluto": "バイオレンスを司る同好会員",
-            "neptune": "いやしを司る同好会員",
-            "venus": "同好会での地位を司る同好会会長",
-            "earth": "神器を司る同好会員",
-            "moon": "曲を司る同好会員"
+            "jupiter": "歴史を司る同好会員",
+            "saturn": "でんちゃを司る同好会員",
+            "uranus": "英語を司る同好会員",
+            "pluto": "音楽を司る同好会員",
+            "neptune": "保健体育を司る同好会員",
+            "venus": "家庭科を司る同行会員",
+            "earth": "配牌を司る同行会員",
+            "moon": ""
         },
         "modeNames": {
             "training": "修行",
