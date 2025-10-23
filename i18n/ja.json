@@ -98,7 +98,7 @@
         {
             "imageName": "punch",
             "category": "weapons",
-            "atk": 3,
+            "atk": 100000,
             "price": 1,
             "giftRate": 5,
             "name": "パンチ"
